@@ -1,0 +1,16 @@
+
+.head{
+    color: brown;
+    font-size: larger;
+font-weight: 200;
+font-family: "roboto";
+text-align: center;
+}
+.button{
+    color: white;
+    width: 138px;
+    height: 36px;
+    border-radius:20px;
+    border-width: o;
+    background-color:#25b1cc;
+}

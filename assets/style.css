@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Slackside+One&family=Whisper&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+body{
+    font-family: "Whisper", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+/* 
+h1, h2, h3, h4, h5, h6{
+    color: red;
+}
+p{
+
+    color: blue;
+}
+p span{
+    color: red;
+    font-size: 30px;
+}
+#header{
+    color: red;
+}
+.head{
+    color: orange !important;
+}
+.heads{
+    color: blue;
+} */
+
+/* simple selectors :- universal, id, class, element, element ot element, class to element, id to element
+
+combinator selectors
+pseudo element selectors
+pseudo class selectors
+attribute selectors */
+
+.image-one img{
+    width: 100%;
+}
+.image-one h1{
+    color: green;
+}
+
+.image-two img{
+    width: 50%;
+}
+
+/* css colors */
+
+/* rgb, hex, hsl */
+
+h1{
+    color: rgb(75, 22, 233); 0-255
+}
+
+/* hExadecimal colors hex colors
+0 -ff */
+h1{
+    color: #bbbbbb;
+}
+
+/* Hsl colors hue, saturation, lightness */
+h1{
+    color: hsl(200, 40%, 60%);
+}
