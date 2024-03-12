@@ -60,6 +60,10 @@ h1{
 
 /* hExadecimal colors hex colors
 0 -ff */
+
+
+
+
 h1{
     color: #bbbbbb;
 }
@@ -68,3 +72,9 @@ h1{
 h1{
     color: hsl(200, 40%, 60%);
 }
+h2{
+    color: green;
+}
+
+
+
